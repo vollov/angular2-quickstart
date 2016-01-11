@@ -1,5 +1,9 @@
 # grunt-demo [![Build Status](https://secure.travis-ci.org/vollov/grunt-demo.png?branch=master)](http://travis-ci.org/vollov/grunt-demo)
 
+
+
+
+
 demo app run grunt
 
 git clone https://github.com/gruntjs/grunt-init-gruntfile
@@ -45,3 +49,8 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2015 dustin zhang  
 Licensed under the MIT license.
+
+
+		"bunyan": "latest",
+		"minimist": "latest",
+		"mysql": "latest",
